@@ -21,7 +21,7 @@ A simple CRUD application for managing users with different role categories (adm
 2. Place all files in the `htdocs/LAB5_CRUD` directory of your XAMPP installation
    - Typically: `C:\xampp\htdocs\LAB5_CRUD\`
 
-### Step 3: Initialize the Database
+### Step 3: Initialize the Database (Please use option 1 only)
 
 There are two ways to set up the database:
 
