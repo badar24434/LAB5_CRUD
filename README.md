@@ -68,10 +68,8 @@ If you need to reset the database:
 
 1. Go to phpMyAdmin: [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
 2. Select the `user_system` database
-3. Either:
-   - Delete the `users` table and then run `db_setup.php` again, or
-   - Select the `users` table, go to the "Operations" tab, and choose "Empty the table (TRUNCATE)" to keep the structure but remove all data
-
+3. Delete the `users` table and then run `db_setup.php` again
+   
 ## Features
 
 - User authentication system with role-based access control
