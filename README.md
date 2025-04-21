@@ -21,15 +21,7 @@ A simple CRUD application for managing users with different role categories (adm
 2. Place all files in the `htdocs/LAB5_CRUD` directory of your XAMPP installation
    - Typically: `C:\xampp\htdocs\LAB5_CRUD\`
 
-### Step 3: Set Up the Database
-
-1. Open your web browser and navigate to: [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
-2. Create a new database named `user_system`:
-   - Click on "New" in the left sidebar
-   - Enter "user_system" as the database name
-   - Click "Create"
-
-### Step 4: Initialize the Database
+### Step 3: Initialize the Database
 
 There are two ways to set up the database:
 
@@ -46,7 +38,7 @@ There are two ways to set up the database:
 3. Click "Browse" and select the `database.sql` file from the project directory
 4. Click "Go" to run the SQL commands
 
-### Step 5: Access the Application
+### Step 4: Access the Application
 
 1. Open your browser and navigate to: [http://localhost/LAB5_CRUD/](http://localhost/LAB5_CRUD/)
 2. You will be redirected to the login page
